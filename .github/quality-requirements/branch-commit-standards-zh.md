@@ -185,5 +185,5 @@ git commit --amend -m "feat: 正确的提交消息"
 ## 相关文档
 
 - [代码质量要求](./code-requirements-zh.md) - 各语言代码质量检测
-- [Makefile使用指南](../docs/Makefile-readme-zh.md) - 完整的Makefile命令说明
-- [本地开发配置](../docs/Makefile-readme-zh.md#本地开发配置) - 使用`.localci.toml`进行模块化开发
+- [Makefile使用指南](../../docs/zh/Makefile-readme.md) - 完整的Makefile命令说明
+- [本地开发配置](../../docs/zh/Makefile-readme.md#本地开发配置) - 使用`.localci.toml`进行模块化开发

@@ -185,5 +185,5 @@ git commit --amend -m "feat: correct commit message"
 ## Related Documentation
 
 - [Code Quality Requirements](./code-requirements.md) - Language-specific code quality detection
-- [Makefile Usage Guide](../docs/Makefile-readme.md) - Complete Makefile command reference
-- [Local Development Configuration](../docs/Makefile-readme.md#local-development-configuration) - Using `.localci.toml` for modular development
+- [Makefile Usage Guide](../../docs/Makefile-readme.md) - Complete Makefile command reference
+- [Local Development Configuration](../../docs/Makefile-readme.md#local-development-configuration) - Using `.localci.toml` for modular development

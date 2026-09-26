@@ -22,7 +22,7 @@
 
 本项目遵循行为准则。参与项目时，请遵守此准则。如遇到不当行为，请向项目维护者举报。
 
-请阅读我们的[行为准则](../.github/code_of_conduct.md)，了解我们为所有贡献者提供欢迎和包容环境的承诺。
+请阅读我们的[行为准则](https://github.com/iflytek/astron-agent/blob/main/.github/code_of_conduct.md)，了解我们为所有贡献者提供欢迎和包容环境的承诺。
 
 ## 快速开始
 
@@ -419,8 +419,8 @@ docs(guide): 完善快速开始指南
 ## 其他资源
 
 - [Pre-commit 使用指南](PRE-COMMIT.md)
-- [分支与提交规范](../.github/quality-requirements/branch-commit-standards-zh.md)
-- [代码质量要求](../.github/quality-requirements/code-requirements-zh.md)
+- [分支与提交规范](https://github.com/iflytek/astron-agent/blob/main/.github/quality-requirements/branch-commit-standards-zh.md)
+- [代码质量要求](https://github.com/iflytek/astron-agent/blob/main/.github/quality-requirements/code-requirements-zh.md)
 - [Makefile 使用指南](Makefile-readme.md)
 - [项目 README](./README.md)
 
