@@ -382,7 +382,7 @@ External Services（外部服务）
 - [部署指南](./DEPLOYMENT_GUIDE.md)
 - [配置说明](./CONFIGURATION.md)
 - [Agent 开发指南](../core/agent/CLAUDE.md)
-- [前端开发指南](../console/frontend/CLAUDE.md)
+- [前端开发指南](../../console/frontend/CLAUDE.md)
 
 ---
 
