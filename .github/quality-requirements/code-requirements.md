@@ -38,5 +38,5 @@ Each language documentation includes:
 ## Related Documentation
 
 - [Branch and Commit Standards](./branch-commit-standards.md) - Branch management and commit message standards
-- [Makefile Usage Guide](../docs/Makefile-readme.md) - Complete Makefile command reference
-- [Local Development Configuration](../docs/Makefile-readme.md#local-development-configuration) - Using `.localci.toml` for modular development
+- [Makefile Usage Guide](../../docs/Makefile-readme.md) - Complete Makefile command reference
+- [Local Development Configuration](../../docs/Makefile-readme.md#local-development-configuration) - Using `.localci.toml` for modular development
