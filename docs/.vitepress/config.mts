@@ -205,13 +205,15 @@ export default defineConfig({
         siteTitle: "Astron Agent",
         nav: [
           { text: "ホーム", link: "/ja/README" },
-          { text: "プロジェクト概要", link: "/ja/README" }
+          { text: "クイックスタート", link: "/ja/guide/quick-start" }
         ],
         sidebar: [
           {
             text: "はじめに",
             items: [
-              { text: "プロジェクト概要", link: "/ja/README" }
+              { text: "プロジェクト概要", link: "/ja/README" },
+              { text: "クイックスタート", link: "/ja/guide/quick-start" },
+              { text: "FAQ", link: "/ja/faq" }
             ]
           }
         ],
